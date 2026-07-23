@@ -17,6 +17,17 @@ A deep introduction to programming with Python.
 - Function
 - Built in function
 
-# AI Programming with Python
+# Python Foundation for ML (Topics)
+A deep introduction to programming with Python for AI.
+
+- Numpy array
+- Pandas
+- Matplotlib, Seaborn
+
+# Machine Learning (Topics)
+A deep introduction to programming with Python for ML.
+
+- SimpleImputer
+- train_test_split
 
 

@@ -2,7 +2,7 @@
 AI - ML with Python
 
 # Python Basics (Topics)
-A deep introduction to programming with Python
+A deep introduction to programming with Python.
 
 - Basic Python
 - Data types, Variables
@@ -14,4 +14,9 @@ A deep introduction to programming with Python
 - Tuple
 - Set
 - Dictionary
+- Function
+- Built in function
+
+# AI Programming with Python
+
 
